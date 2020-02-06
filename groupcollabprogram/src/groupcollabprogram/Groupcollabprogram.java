@@ -19,5 +19,7 @@ public class Groupcollabprogram {
         System.out.println("It's Corona Time");
         // TODO code application logic here
     }
-    
+    public static void yeet(){
+        System.out.println("Hi,Hi,Hi,Hi,Hi,Hi,Hi,Hi,Hi,Hi,Hi,Hi,Hi.");
+    }
 }
